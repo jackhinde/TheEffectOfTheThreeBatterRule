@@ -1,2 +1,9 @@
-# TheEffectOfTheThreeBatterRule
-A project using Python
+![Page 1](TheEffectOfTheThreeBatterRule-1.png)
+![Page 2](TheEffectOfTheThreeBatterRule-2.png)
+![Page 3](TheEffectOfTheThreeBatterRule-3.png)
+![Page 4](TheEffectOfTheThreeBatterRule-4.png)
+![Page 5](TheEffectOfTheThreeBatterRule-5.png)
+![Page 6](TheEffectOfTheThreeBatterRule-6.png)
+![Page 7](TheEffectOfTheThreeBatterRule-7.png)
+![Page 8](TheEffectOfTheThreeBatterRule-8.png)
+![Page 9](TheEffectOfTheThreeBatterRule-9.png)
